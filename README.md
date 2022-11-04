@@ -32,7 +32,7 @@ Moreover, Premier League standings for the last 22 seasons (from kaggle.com) are
 The studies are performed on .csv and excel files using Python and Tableau softwares.
 
 Figure 1
-<img src="images/Avg. Actual Goals vs. Team.png"/>
+<img src="images/Avg. Actual Goals vs. Team_2.png"/>
 
 A few NaN values in the dataset are replaced by mean value of the columns. No outliers were observed in the dataset. After that, the features are selected using variance threshold and KBEST methods to prepare the dataset for the classification models. After the results are obtained, the results are exported as .csv and excel files. Extra excel files of dataset are created using Python to compare actual data and predicted data in Tableau.
 
