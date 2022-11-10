@@ -21,7 +21,7 @@ L.T. Ozgur Yildirim
 ### Purpose of the study
 
 In this project, I am working as data analyst for a company related to football statistics. My company created machine learning models to predict the results of matches in English Premier League based on football statistics. 
-The main objectives of this study are 1) analyzing relationships between football statistics, and 2) building classification models to predict the predict the results of football matches based on football statistics.
+The main objectives of this study are 1) analyzing relationships between football statistics, and 2) building classification models to predict the results of football matches based on football statistics.
 
 <a id='section2'></a>
 ### Materials and Methods
